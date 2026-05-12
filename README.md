@@ -1,7 +1,7 @@
-Overview
+#Overview
 Agriculture is the backbone of Nepal's economy, yet many farmers lose significant portions of their harvest to preventable diseases. This project uses Deep Learning (CNN) to provide an instant diagnosis of plant health via a simple leaf photo.
 
- Key Features
+ #Key Features
 Instant Diagnosis: Upload a photo of a plant leaf and get an immediate prediction.
 
 High Accuracy: Built using a Convolutional Neural Network (CNN) trained on the PlantVillage dataset.
@@ -10,7 +10,7 @@ User-Friendly UI: Simple interface built with Streamlit for accessibility on mob
 
 Actionable Insights: (Optional feature) Provides names of diseases and recommended treatments.
 
- Tech Stack
+ #Tech Stack
 Framework: TensorFlow / Keras
 
 Web Interface: Streamlit
@@ -19,15 +19,8 @@ Image Processing: PIL (Pillow)
 
 Language: Python 3.x
 
- Project Structure
-Plaintext
-├── app.py              # Main Streamlit application
-├── model/              # Saved .h5 or .keras model file
-├── data/               # Sample images for testing
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
- How to Run
-Clone the repo:
+
+#Clone the repo:
 git clone [https://github.com/your-username/crop-disease-detector.git](https://github.com/your-username/crop-disease-detector.git)
 
 Install dependencies:
@@ -45,4 +38,3 @@ Bilingual Support: If you add a "Nepali Language" toggle in Streamlit, it instan
 
 Deployment: Deploy it for free on Streamlit Community Cloud. Having a "Live Demo" link in your Git description makes people 10x more likely to check it out.
 
-Are you planning to train the model from scratch on your own machine, or are you looking to use a pre-trained model like MobileNet or ResNet?
