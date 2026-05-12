@@ -11,6 +11,7 @@ Agriculture is the backbone of Nepal's economy, yet many farmers lose significan
 4.Actionable Insights: (Optional feature) Provides names of diseases and recommended treatments.
 
  #Tech Stack
+ 
 1.Framework: TensorFlow / Keras
 
 2.Web Interface: Streamlit
