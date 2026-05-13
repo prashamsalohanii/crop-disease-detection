@@ -83,3 +83,10 @@ with col2:
         **Supported plants:**
         - 🍎 Apple, 🍒 Cherry, 🌽 Corn
         - 🍇 Grape, 🍊 Orange, 🍑 Peach
+st.divider()
+st.subheader("📈 Disease Severity Guide")
+col_a, col_b, col_c, col_d = st.columns(4)
+col_a.success("✅ None — Healthy plant")
+col_b.warning("⚠️ Medium — Monitor closely")
+col_c.error("🚨 High — Act quickly")
+col_d.error("🆘 Very High — Immediate action")
