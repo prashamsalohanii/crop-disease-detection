@@ -1,11 +1,6 @@
 streamlit
-pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-groq
-python-dotenv
 Pillow
-imbalanced-learn
+plotly
+torch
+torchvision
