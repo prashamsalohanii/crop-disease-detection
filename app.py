@@ -83,6 +83,10 @@ with col2:
         **Supported plants:**
         - 🍎 Apple, 🍒 Cherry, 🌽 Corn
         - 🍇 Grape, 🍊 Orange, 🍑 Peach
+        - 🌶️ Pepper, 🥔 Potato, 🍓 Strawberry
+        - 🍅 Tomato, 🥒 Squash
+        """)
+
 st.divider()
 st.subheader("📈 Disease Severity Guide")
 col_a, col_b, col_c, col_d = st.columns(4)
