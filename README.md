@@ -1,3 +1,7 @@
+
+
+#Live App
+https://prashamsalohanii-crop-disease-detection-app-dlnoak.streamlit.app/
 #Overview
 Agriculture is the backbone of Nepal's economy, yet many farmers lose significant portions of their harvest to preventable diseases. This project uses Deep Learning (CNN) to provide an instant diagnosis of plant health via a simple leaf photo.
 
