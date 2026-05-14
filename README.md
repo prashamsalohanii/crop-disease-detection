@@ -2,6 +2,7 @@
 
 #Live App
 https://prashamsalohanii-crop-disease-detection-app-dlnoak.streamlit.app/
+
 #Overview
 Agriculture is the backbone of Nepal's economy, yet many farmers lose significant portions of their harvest to preventable diseases. This project uses Deep Learning (CNN) to provide an instant diagnosis of plant health via a simple leaf photo.
 
@@ -34,7 +35,7 @@ pip install -r requirements.txt
 2.Launch the App:
 streamlit run app.py
 
-# Tips for Making it "Unique"
+#Tips for Making it "Unique"
 To truly make this stand out as a "Nepal-relevant" project, consider adding these small touches to your description or code:
 
 1.Localized Data: If possible, mention that you've optimized the model for crops common in Nepal (like Rice, Potato, or Tomato).
